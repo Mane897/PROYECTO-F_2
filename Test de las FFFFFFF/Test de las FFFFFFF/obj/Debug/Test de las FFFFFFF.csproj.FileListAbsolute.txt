@@ -1,0 +1,27 @@
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\bin\Debug\Test de las FFFFFFF.exe.config
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\bin\Debug\Test de las FFFFFFF.exe
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\bin\Debug\Test de las FFFFFFF.pdb
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Form1.resources
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Properties.Resources.resources
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.exe
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.pdb
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Form2.resources
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Resultados.resources
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.csprojAssemblyReference.cache
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Form1.resources
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Form2.resources
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Properties.Resources.resources
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Resultados.resources
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.csproj.GenerateResource.cache
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.csproj.CoreCompileInputs.cache
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.exe
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test de las FFFFFFF.pdb
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\bin\Debug\Test de las FFFFFFF.exe.config
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\bin\Debug\Test de las FFFFFFF.exe
+C:\Users\german lol\Desktop\Test de las FFFFFFF\Test de las FFFFFFF\bin\Debug\Test de las FFFFFFF.pdb
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Portada.resources
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Creditos.resources
+C:\Users\Dell\source\repos\Test de las FFFFFFF\Test de las FFFFFFF\obj\Debug\Test_de_las_FFFFFFF.Splash_screen.resources
